@@ -1,0 +1,12 @@
+https://tomassetti.me/guide-natural-language-processing/
+https://www.researchgate.net/publication/258916404_What%27s_in_a_word_that_makes_it_hard_or_easy_Intralexical_factors_affecting_the_difficulty_of_vocabulary_acquisition
+https://opendata.stackexchange.com/questions/1946/database-of-english-words-difficulty
+
+http://subtlexus.lexique.org/ - lista słów, aby samemu policzyć częstości występowania
+http://ucrel.lancs.ac.uk/bncfreq/flists.html - lista częstości słów, ale mała
+https://en.wikipedia.org/wiki/Word_lists_by_frequency - look at methodology -> statistics
+https://corpus.byu.edu/resources.asp
+
+
+https://invokeit.wordpress.com/frequency-word-lists/
+https://github.com/LuminosoInsight/wordfreq
